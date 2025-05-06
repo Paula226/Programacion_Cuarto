@@ -1,0 +1,6 @@
+com\mycompany\maven_22\Clases\Propietario.class
+com\mycompany\maven_22\Clases\Vehiculo.class
+com\mycompany\maven_22\Persistencia\TurnoJpaController.class
+com\mycompany\maven_22\Persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\maven_22\Clases\Turno.class
+com\mycompany\maven_22\Persistencia\PropietarioJpaController.class
